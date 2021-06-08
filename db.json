@@ -1,3 +1,4 @@
+{
 "users":[
          {"id":"1","email":"PatrickIssler1234@gmail.com","name":"Patrick","password":"douglasd","empresa":"SmartBR"},
          {"id":"2","email":"Rossie_Cartwright77@yahoo.com","name":"Melissa Volkman","password":"xtsnD3QXnHr1fV1","empresa":"empresa 2"}
@@ -20,3 +21,4 @@
                ],
 "processos":[{"id":"1","numero":"numero 1","nomeMarca":"nomeMarca 1","despacho":"despacho 1","palavraChave":"palavraChave 1","processoCompleto":"processoCompleto 1"}
             ]
+}
