@@ -20,5 +20,8 @@
   {"id_palavra_chave":"2","palavra_chave":"palavra_chave 2","id_usuario":3}
                ],
 "processos":[{"id":"1","numero":"numero 1","nomeMarca":"nomeMarca 1","despacho":"despacho 1","palavraChave":"palavraChave 1","processoCompleto":"processoCompleto 1"}
-            ]
+            ],
+"revistas":[
+         {"id":"1","number":2010,"idEmpresa":3},{"id":"2","number":2025,"idEmpresa":3},{"id":"3","number":2035,"idEmpresa":3},{"id":"4","number":2065,"idEmpresa":3}
+],
 }
