@@ -1,5 +1,22 @@
-"users":[{"id":"1","email":"PatrickIssler1234@gmail.com","name":"Patrick","password":"douglasd","empresa":"SmartBR"},{"id":"2","email":"Rossie_Cartwright77@yahoo.com","name":"Melissa Volkman","password":"xtsnD3QXnHr1fV1","empresa":"empresa 2"}],
-"marcas":[{"id":"1","name":"Arktus"},{"id":"2","name":"SmartBR"},{"id":"3","name":"ISP SAUDE"},{"id":"4","name":"PATRICK"}],
-"ProcessoVerificado":[{"id_processo_verificado":"1","data_verificacao":1623159563,"numero_processo":"numero_processo 1","id_usuario":"id_usuario 1"}],
-"PalavraChave":[{"id_palavra_chave":"1","palavra_chave":"palavra_chave 1","id_usuario":98},{"id_palavra_chave":"2","palavra_chave":"palavra_chave 2","id_usuario":3}],
-"processos":[{"id":"1","numero":"numero 1","nomeMarca":"nomeMarca 1","despacho":"despacho 1","palavraChave":"palavraChave 1","processoCompleto":"processoCompleto 1"}]
+"users":[
+         {"id":"1","email":"PatrickIssler1234@gmail.com","name":"Patrick","password":"douglasd","empresa":"SmartBR"},
+         {"id":"2","email":"Rossie_Cartwright77@yahoo.com","name":"Melissa Volkman","password":"xtsnD3QXnHr1fV1","empresa":"empresa 2"}
+        ],
+"marcas":[
+  {"id":"1","name":"Arktus"},
+  {"id":"2","name":"SmartBR"},
+  {"id":"3","name":"ISP SAUDE"},
+  {"id":"4","name":"PATRICK"}
+        ],
+"ProcessoVerificado":[
+  {"id_processo_verificado":"1",
+   "data_verificacao":1623159563,
+   "numero_processo":"numero_processo 1",
+   "id_usuario":"id_usuario 1"}
+        ],
+"PalavraChave":[
+  {"id_palavra_chave":"1","palavra_chave":"palavra_chave 1","id_usuario":98},
+  {"id_palavra_chave":"2","palavra_chave":"palavra_chave 2","id_usuario":3}
+               ],
+"processos":[{"id":"1","numero":"numero 1","nomeMarca":"nomeMarca 1","despacho":"despacho 1","palavraChave":"palavraChave 1","processoCompleto":"processoCompleto 1"}
+            ]
